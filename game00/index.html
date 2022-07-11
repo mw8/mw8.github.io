@@ -1,25 +1,19 @@
 <html>
 
 <head>
-    <meta charset="UTF-8" />
-    <style>
-        body {
-            margin: 0;
-            background-size: 400% 400%;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        canvas {
-            background-color: white;
-        }
-    </style>
+    <title>Game00</title>
 </head>
-<script type="module">
-    import init from './game00.js'
-    init()
-</script>
+
+<style>
+</style>
+
+<body>
+    <script type="module">
+        import init from "./game00.js";
+        init("./game00_bg.wasm").then(function (wasm) {
+            wasm.run();
+        });
+    </script>
+</body>
 
 </html>
