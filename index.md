@@ -1,3 +1,3 @@
 ## Links
 
-* [Game00](https://github.com/mw8/mw8.github.io/game00/)
+* [Game00](https://mw8.github.io/game00/index.html)
