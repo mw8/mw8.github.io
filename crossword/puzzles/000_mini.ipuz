@@ -1,0 +1,43 @@
+{
+  "version": "http://ipuz.org/v2",
+  "kind": [ "http://ipuz.org/crossword#1" ],
+  "dimensions": { "width": 7, "height": 7 },
+  "puzzle": [
+    [ "#", "#", "#", 1, 2, 3, 4 ],
+    [ "#", "#", "#", 5, 0, 0, 0 ],
+    [ "#", 6, 7, 0, 0, 0, 0 ],
+    [ 8, 0, 0, 0, 0, 0, 0 ],
+    [ 9, 0, 0, 0, 0, 0, "#" ],
+    [ 10, 0, 0, 0, "#", "#", "#" ],
+    [ 11, 0, 0, 0, "#", "#", "#" ]
+  ],
+  "solution": [
+    [ "#", "#", "#", "M", "A", "P", "O" ],
+    [ "#", "#", "#", "C", "R", "A", "W" ],
+    [ "#", "C", "L", "A", "I", "R", "E" ],
+    [ "S", "L", "I", "D", "E", "I", "N" ],
+    [ "C", "A", "N", "A", "L", "S", "#" ],
+    [ "O", "V", "U", "M", "#", "#", "#" ],
+    [ "T", "E", "S", "S", "#", "#", "#" ]
+  ],
+  "clues": {
+    "Across": [
+      [ 1, "Tofu dish" ],
+      [ 5, "Stuck in your ____" ],
+      [ 6, "Danes of 'Homeland'" ],
+      [ 8, "Enter someone's DMs, perhaps" ],
+      [ 9, "Waterways" ],
+      [ 10, "Female reproductive cell" ],
+      [ 11, "____ of the d'Urbervilles" ]
+    ],
+    "Down": [
+      [ 1, "Canadian actress, Rachel" ],
+      [ 2, "Someone who lives...UNDER THE SEA" ],
+      [ 3, "Une ville en France" ],
+      [ 4, "Wilson of 'Zoolander'" ],
+      [ 6, "Pair of wooden percussion sticks" ],
+      [ 7, "Son of Apollo" ],
+      [ 8, "Inhabitant of Caledonia" ]
+    ]
+  }
+}
