@@ -34,9 +34,9 @@
     [ "#", "#", "#", "S", "I", "D", "E", "D", "#", "A", "L", "L", "O", "W", "#" ],
     [ "A", "B", "S", "#", "Z", "E", "N", "#", "A", "T", "I", "E", "#", "#", "#" ],
     [ "G", "O", "T", "T", "A", "C", "A", "T", "C", "H", "E", "M", "A", "L", "L" ],
-    [ "A", "R", "E", "A", "#", "A", "B", "A", "T", "E", "#", "E", "D", "Y", "S" ],
-    [ "T", "E", "N", "D", "#", "F", "L", "Y", "E", "R", "#", "N", "A", "N", "A" ],
-    [ "E", "R", "O", "S", "#", "S", "E", "E", "D", "S", "#", "T", "I", "N", "T" ]
+    [ "A", "R", "E", "A", "#", "A", "B", "A", "T", "E", "#", "E", "T", "S", "Y" ],
+    [ "T", "E", "N", "D", "#", "F", "L", "Y", "E", "R", "#", "N", "E", "A", "L" ],
+    [ "E", "R", "O", "S", "#", "S", "E", "E", "D", "S", "#", "T", "E", "T", "E" ]
   ],
   "clues": {
     "Across": [
@@ -70,13 +70,13 @@
       [ 52, "Ash's, uh, phrase" ],
       [ 58, "2D measurement" ],
       [ 59, "Subside" ],
-      [ 60, "Ice cream brand, in the eastern US" ],
+      [ 60, "Online craft store" ],
       [ 61, "Care for" ],
       [ 62, "Leaflet" ],
-      [ 63, "Gram alternative" ],
+      [ 63, "Stephenson, author of \"Cryptonomicon\"" ],
       [ 64, "God of desire" ],
       [ 65, "Early bloomers?" ],
-      [ 66, "Throw shade?" ]
+      [ 66, "____-a-____" ]
     ],
     "Down": [
       [ 1, "Capital of Samoa" ],
@@ -113,9 +113,9 @@
       [ 51, "Played a role" ],
       [ 53, "Small amounts" ],
       [ 54, "Actor Diggs" ],
-      [ 55, "Type of dosa" ],
-      [ 56, "NFL's Swann" ],
-      [ 57, "Legal exam" ]
+      [ 55, "To ____ (perfect)" ],
+      [ 56, "Legal exam" ],
+      [ 57, "Crocodile from children's book" ]
     ]
   }
 }
